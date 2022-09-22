@@ -9,7 +9,7 @@ if __name__ == "__main__":
     if argc == 0:
         first_line += "s."
     elif argc == 1:
-        first_line+= ":"
+        first_line += ":"
     else:
         first_line += "s:"
     print(first_line)
