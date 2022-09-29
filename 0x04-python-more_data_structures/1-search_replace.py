@@ -2,11 +2,11 @@
 
 def search_replace(my_list, search, replace):
     """
-    search and replace in an element in a list
-    Args: 
-        my_list - the list to search
+    search and replace an element in a list
+    Args:
+        my_list - The list to search
         search - element to replace
-        replace - substitue for search
+        replace - subtitute for search
     """
     if my_list is None:
         return None
