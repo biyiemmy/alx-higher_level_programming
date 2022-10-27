@@ -2,9 +2,10 @@
 """
 function that write a string to text (UTF8) & return total of character written
 """
-i
+
 
 def write_file(filename="", text=""):
-    """ module write_file """
+    """ module write_file
+    """
     with open(filename, 'w') as f:
         return f.write(text)
