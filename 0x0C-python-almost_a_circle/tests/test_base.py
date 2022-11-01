@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
-"""Defines unittests for base.py.
-Unittest classes:
+"""Unittest classes:
     TestBase_instantiation - line 23
     TestBase_to_json_string - line 110
     TestBase_save_to_file - line 156
